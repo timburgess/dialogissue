@@ -1,0 +1,11 @@
+{
+    "name": "dialogissue",
+    "title": "Demo dialog issue",
+    "description": "Nothing special",
+    "homepage": "https://github.com/timburgess",
+    "version": "1.0.0",
+    "author": "Tim Burgess (https://github.com/timburgess)",
+    "engines": {
+        "brackets": ">=0.34.0"
+    }
+}
